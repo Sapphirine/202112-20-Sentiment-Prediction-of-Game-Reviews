@@ -21,3 +21,5 @@ For recommended:
 For not recommended:
 
 ![Not Recommend](https://github.com/Sapphirine/202112-20-Sentiment-Prediction-of-Game-Reviews/blob/main/notrecommend.gif)
+
+# Thank you for reading!
