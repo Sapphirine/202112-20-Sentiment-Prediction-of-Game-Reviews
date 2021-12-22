@@ -8,10 +8,6 @@ The main.py contains code for flask backend program, the template folder contain
 
 The Model folder contains model information of hashingTF for word vectorization, logistics regression and naive Bayes.
 
-The example for the home page is below.
-
-![Home Page](https://github.com/Sapphirine/202112-20-Sentiment-Prediction-of-Game-Reviews/blob/main/home.png)
-
 Belows are gif for actual use of this demo application.
 
 For recommended:
